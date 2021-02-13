@@ -1,0 +1,15 @@
+module.exports = {
+    googleClientID: process.env.GOOGLE_CLIENT_ID,
+    googleClientSecret: process.env.GOOGLE_CLIENT_SECRET,
+    mongoURI: process.env.MONGO_URI,
+    cookieKey: process.env.COOKIE_KEY,
+    facebookClientID: "398595057880601",
+    facebookClientSecret : "525744f44b7ba03f22c497630219e901",
+    stripePublishableKey : process.env.STRIPE_PUBLISHABLE_KEY,
+    stripeSecretKey : process.env.STRIPE_SECRET_KEY,
+    sendGridKey: process.env.SEND_GRID_KEY,
+    redirectDomain : process.env.REDIRECT_DOMAIN,
+    stripeWebhookKey : 'whsec_HFsqhj6DsvQTT9cKwQDCXIJD6NyHt1tE',
+    redirectDomainYes :'https://thawing-badlands-52508.herokuapp.com/surveys',
+    redirectDomainNo :'https://thawing-badlands-52508.herokuapp.com/surveys',
+  };

@@ -1,0 +1,32 @@
+
+
+.landing{
+    background-image: url(../images/1.png);
+    height: 100vh;
+    background-size: cover;
+    background-position-x: 70%;
+    width: 100%;
+    cursor: auto;
+}
+.d-flex{
+    display: flex;
+    justify-content: flex-start ;
+   align-items: center;
+    height: 100vh;
+   
+}
+.landing h1{
+    font-size: 50px;
+    font-weight: 900 !important;
+
+}
+.landing button{
+    background-color: #f66f61!important;
+    margin: 10px;
+}
+.desc{
+    color: darkslategrey;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 10px;
+}

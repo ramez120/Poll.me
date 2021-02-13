@@ -1,0 +1,14 @@
+.responses{
+    display: flex !important;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 10px 0px;
+}
+.d-flex-row{
+    display: flex;
+    margin: 10px 0px;
+
+}
+.mt-3{
+    margin-top: 20px;
+}

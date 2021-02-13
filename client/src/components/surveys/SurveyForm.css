@@ -1,0 +1,67 @@
+.d-flex-center-center {
+  display: flex;
+  justify-content: center;
+  
+ 
+  position: relative;
+
+}
+form h3 {
+  font-style: italic;
+  margin-bottom: 10px;
+  font-size: 25px;
+ 
+}
+form{
+    margin-top: 60px;
+}
+
+.disp-flex {
+    
+  display: flex ;
+  justify-content: center !important;
+  
+}
+.align-between{
+    display: flex;
+    justify-content: space-between;
+}
+.cancel-btn{
+    background-color: #f66f61 !important;
+    color: white !important;
+    margin-top: 10px !important;
+}
+
+.next-btn{
+    background-color: white !important;
+    color: teal !important;
+    margin-top: 10px !important;
+}
+.new-survey-icon{
+    color :#f66f61;
+    margin-top: 10px;
+    position: absolute;
+    left: -2%;
+    top : -10%;
+    font-size: 80px !important;
+    width: 20%;
+
+}
+TextField{
+    font-family: "Montserrat Alternates", sans-serif !important;
+  font-weight: 900 !important;
+}
+@media only screen and (max-width: 600px) {
+    .d-flex-center-center h3 {
+      font-size: 16px;
+    }
+    .new-survey-icon{
+        font-size: 60px !important;
+    }
+
+  }
+  .no-decorations{
+    color:  white !important;
+    text-decoration: none;
+  }
+

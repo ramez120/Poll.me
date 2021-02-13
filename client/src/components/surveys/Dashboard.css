@@ -1,0 +1,17 @@
+.fixed-btn{
+    position: fixed !important;
+    bottom: 10% ;
+    right: 15%;
+    background-color: white !important;
+    border-radius: 50% !important;
+    height: 60px;
+    width: 50px;
+    border: none !important;
+    box-shadow: none !important;
+}
+body{
+    overflow-x: hidden;
+}
+.fixed-icon{
+    color: #f66f61  !important;
+}

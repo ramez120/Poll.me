@@ -1,0 +1,26 @@
+
+.display-flex-center{
+    display: flex;
+    align-items: center;
+    height: 90vh;
+}
+.w-100{
+    width: 100%;
+}
+.field-cont{
+    margin-bottom: 30px !important;
+}
+.back-btn{
+    background-color: #f66f61  !important;
+    color: white !important;
+
+}
+
+.space-between{
+   display: flex;
+   justify-content: space-between;
+}
+.submit-btn{
+    background-color: white !important;
+    color: teal !important;
+}
